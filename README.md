@@ -8,4 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 # Problème
 
-Le style est mise en forme des pages
+Le style et la mise en forme des pages
