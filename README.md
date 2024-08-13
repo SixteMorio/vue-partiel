@@ -8,6 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 # Problème
 
-J'ai fais avec ce que j'ai vu sur internet et des vidéos youtube donc je ne sais pas si c'est cela vraiment que vous attendiez.
-
 Le style est mise en forme des pages
